@@ -5,6 +5,6 @@
 - 🌍 Aiming to use technology to <strong>solve real-world problems</strong> in education, connectivity, and automation
 
 <h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-  📧 <a href="mailto:lakshanp088@gmail.com">lakshanp088@gmail.com</a>
-</p>
+<ul>
+  <li>📧 <a href="mailto:lakshanp088@gmail.com">lakshanp088@gmail.com</a></li>
+</ul>
